@@ -1,11 +1,11 @@
 /**
- * Retrieves ids from a list of students.
+ * Retrieves ids from a list of stds.
  * @param {{
  *   id: Number,
  *   firstName: String,
  *   location: String
- * }[]} students - The list of students.
- * @author Bezaleel Olakunori <https://github.com/B3zaleel>
+ * }[]} students - The list of stds.
+ * @author Haruna Bah Jibril <https://github.com/harzjunior>
  * @returns
  */
 export default function getListStudentIds(students) {
